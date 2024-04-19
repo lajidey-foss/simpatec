@@ -96,7 +96,6 @@
    "fieldtype": "Float",
    "label": "UOM Conversion Factor",
    "print_hide": 1,
-   "read_only": 1,
    "reqd": 1
   },
   {
@@ -144,9 +143,9 @@
  ],
  "istable": 1,
  "links": [],
- "modified": "2024-01-11 10:12:18.794450",
+ "modified": "2024-04-14 03:41:06.494624",
  "modified_by": "Administrator",
- "module": "SimpaTec",
+ "module": "Simpatec",
  "name": "Software Maintenance Item",
  "naming_rule": "Random",
  "owner": "Administrator",

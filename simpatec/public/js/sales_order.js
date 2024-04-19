@@ -105,7 +105,7 @@ frappe.ui.form.on('Sales Order', {
         }else{
             $("div[data-fieldname='sales_order_clearances']").parents(".form-column").removeClass("col-md-12")
         }
-    }
+    },
 
 })
 

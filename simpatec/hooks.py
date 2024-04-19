@@ -107,6 +107,7 @@ doc_events = {
 	"Sales Order": {
         "validate": "simpatec.events.sales_order.validate",
 		"on_submit": [
+			"simpatec.events.sales_order.update_billing_status",
             "simpatec.events.sales_order.update_software_maintenance", 
 			"simpatec.events.sales_order.update_internal_clearance_status"
             ],
