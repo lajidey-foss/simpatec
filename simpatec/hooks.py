@@ -216,6 +216,8 @@ fixtures = [
 			"Quotation-cover_letter_de",
 			"Quotation-cover_letter_fr"
 			"Quotation-ignore_cover_language",
+			"Sales Order Item-item_type",
+			"Sales Order Item-reoccuring_maintenance_amount"
                 ),
             ]
         ],
